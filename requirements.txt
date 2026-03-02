@@ -5,4 +5,4 @@ joblib
 streamlit>=1.35.0
 plotly
 networkx
-google-generativeai
+google-genai
