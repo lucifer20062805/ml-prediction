@@ -1,0 +1,11 @@
+# .gitignore for ChronoTrace
+.streamlit/secrets.toml
+*.db
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.csv
+commercial_fraud_dataset.csv
+Base.csv
