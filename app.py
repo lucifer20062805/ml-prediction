@@ -10,6 +10,9 @@ st.set_page_config(
     layout="wide",
 )
 
+# Initialize database for fresh cloud instances
+db.init_db()
+
 # Reuse the CSS
 st.markdown("""
 <style>
